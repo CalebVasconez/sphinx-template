@@ -12,5 +12,6 @@ Web security project.
    chapter1/index
    chapter2/index
    bibliography/index
+   outline/index
 
 
